@@ -1,12 +1,12 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0047ff&height=250&section=header&text=Private-X&fontSize=80&fontColor=ffffff&animation=fadeIn"/><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Python+Developer;Automation+Architect;Backend+Engineer;Building+The+Future"/><img src="https://komarev.com/ghpvc/?username=Private-X&label=PROFILE+VIEWS&color=00d1ff&style=for-the-badge"/></div>
 
-# ⚡ PRIVATE-X // IDENTITY:
+ Who Am I:
   - Name: Daniyal Hossain Noor
   - Alias: Private-X
   - Location: Bangladesh
   - Role: Python Developer & Automation Specialist
 
-Focus:
+ Focus:
   - Enterprise Automation
   - Flask Backends
   - Web Scraping
