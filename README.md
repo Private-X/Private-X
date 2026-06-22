@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=220&section=header&text=Private-X&fontSize=75&fontColor=ffffff&animation=fadeIn"/><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Professional+Python+Developer;Automation+Architect;Full-Stack+Web+Developer;Building+Intelligent+Software+Solutions"/>"Profile Views" (https://komarev.com/ghpvc/?username=Private-X&color=00d1ff&style=for-the-badge)
-
-</div>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0047ff&height=250&section=header&text=Private-X&fontSize=80&fontColor=ffffff&animation=fadeIn"/><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Python+Developer;Automation+Architect;Backend+Engineer;Building+The+Future"/><img src="https://komarev.com/ghpvc/?username=Private-X&label=PROFILE+VIEWS&color=00d1ff&style=for-the-badge"/></div>---
 
 ⚡ SYSTEM INFO
 
@@ -26,9 +22,7 @@ Status: Building The Future
 
 I am a dedicated Python Developer and Automation Specialist operating under the handle Private-X.
 
-My goal is simple:
-
-«Transform complex manual workflows into intelligent automated systems.»
+My mission is to transform complex manual workflows into intelligent automated systems.
 
 Current Objectives
 
@@ -50,10 +44,10 @@ Current Objectives
 
 Department| Capabilities
 🤖 Automation| Scrapers, Bots, Task Schedulers
-🖥️ Software Development| Python Desktop Tools
+🖥️ Software Development| Python Desktop Applications
 🌐 Backend Engineering| Flask APIs & Admin Panels
-📊 Data Processing| JSON, XML, Databases
-🔐 Security Research| Automation & System Analysis
+📊 Data Processing| JSON, XML & Database Systems
+🔐 Security Research| System Analysis & Automation
 
 ---
 
@@ -66,16 +60,27 @@ Department| Capabilities
 📈 GITHUB SUMMARY
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Private-X&theme=dracula" width="100%" />
-</p><p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Private-X&theme=dracula" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Private-X&theme=dracula" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Private-X&theme=tokyonight" width="100%" />
 </p>---
 
-🏆 DIGITAL DNA
+🧬 DIGITAL DNA
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Private-X&theme=matrix&no-frame=true&no-bg=true"/>
-</p>---
+class PrivateX:
+
+    def __init__(self):
+        self.alias = "Private-X"
+        self.role = "Automation Architect"
+
+    def daily_routine(self):
+        while True:
+            self.build_software()
+            self.automate_tasks()
+            self.deploy_solutions()
+            self.learn_new_things()
+
+PrivateX().daily_routine()
+
+---
 
 🐍 CONTRIBUTION SNAKE
 
@@ -94,22 +99,6 @@ Department| Capabilities
 </a><a href="mailto:daniyaln.hossai@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></p>---
-
-class PrivateX:
-
-    def __init__(self):
-        self.role = "Automation Architect"
-
-    def daily_routine(self):
-        while True:
-            self.build_software()
-            self.automate_tasks()
-            self.deploy_solutions()
-            self.learn_new_things()
-
-PrivateX().daily_routine()
-
----
 
 <div align="center">⚡ CODE • CREATE • AUTOMATE • INNOVATE ⚡
 
