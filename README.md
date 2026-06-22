@@ -31,7 +31,8 @@ Current Objectives
 - 🔥 Advanced Python Engineering
 
 <img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
-💻 Tech Stack
+💻 Tech Stack:
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,java,kotlin,mysql,html,css,javascript,git,github,vscode" />
