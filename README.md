@@ -1,121 +1,118 @@
-<p align="center">
-  <a href="https://www.facebook.com/daniyal.noor">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
-  </a>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;DANIYAL404DEV+CONNECTED;PYTHON+•+JAVA+•+KOTLIN;AUTOMATION+SPECIALIST;ACCESS+GRANTED+✓" />
-</p>
-<p align="center">
-  <a href="https://www.facebook.com/daniyal.noor">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
-  </a>
-</p>
- 
--
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal404dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal404dev&layout=compact&theme=tokyonight" />
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Daniyal404dev&theme=tokyonight" />
-</p>
- 
- 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
- 
-
-# 🛠️ TECH STACK
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,github,vscode" />
-</p>
-<p align="center">
-  <a href="https://www.facebook.com/daniyal.noor">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniyal404dev&style=flat-square&color=blue"/>
-  <img src="https://komarev.com/ghpvc/?username=Daniyal404dev&style=flat-square&color=red"/>
-</p>
-<p align="center">
-  <a href="https://www.facebook.com/daniyal.noor">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
-  </a>
-</p>
- 
-# 👤 ABOUT
-- **Developer**: Md Daniyal Hossain Noor
-
-
-# 🚀 CURRENT MISSION
- - **Building smart automation tools**
- - **Learning advanced Java & Kotlin**
- - **Android app development**
- - **API & backend systems**
- - **Digital innovation**
- 
-# 🔗 CONTACT ME
--
- 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/DaniyalNoor)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=121212&color=1877F2&logoWidth=20)](https://www.facebook.com/daniyal.noor)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121212&color=25D366&logoWidth=20)](https://wa.me/+8801XXXXXXXXX)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=121212&color=E4405F&logoWidth=20)](https://instagram.com/daniyal_noor)
- 
-
-
-# 🧬 DIGITAL DNA
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Daniyal404dev&theme=matrix&no-frame=true&no-bg=true&margin-w=10"/></div>---
-
-# 
-- 
--
- 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; max-width: 850px;">
-    <tr style="border: none;">
-      <td colspan="2" align="center" style="border: none; padding: 4px;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniyal404dev&theme=dracula" alt="profile details" width="100%" style="max-width: 100%;" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 4px; width: 50%;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniyal404dev&theme=dracula" alt="repos per language" width="100%" style="max-width: 100%;" />
-      </td>
-      <td align="center" style="border: none; padding: 4px; width: 50%;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daniyal404dev&theme=dracula" alt="most commit language" width="100%" style="max-width: 100%;" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=220&section=header&text=Private-X&fontSize=75&fontColor=ffffff&animation=fadeIn"/><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Professional+Python+Developer;Automation+Architect;Full-Stack+Web+Developer;Building+Intelligent+Software+Solutions"/>"Profile Views" (https://komarev.com/ghpvc/?username=Private-X&color=00d1ff&style=for-the-badge)
+
+</div>---
+
+⚡ SYSTEM INFO
+
+Name: Daniyal Hossain Noor
+Alias: Private-X
+Location: Bangladesh
+Role: Python Developer & Automation Specialist
+
+Focus:
+  - Enterprise Automation
+  - Flask Backends
+  - Web Scraping
+  - API Integration
+  - Intelligent Systems
+
+Status: Building The Future
+
+---
+
+🚀 ABOUT
+
+I am a dedicated Python Developer and Automation Specialist operating under the handle Private-X.
+
+My goal is simple:
+
+«Transform complex manual workflows into intelligent automated systems.»
+
+Current Objectives
+
+- 🚀 Enterprise-grade Automation
+- 🌐 Backend API Development
+- 🤖 Smart Bots & Automation
+- 📊 Data Processing Systems
+- 🔥 Advanced Python Engineering
+
+---
+
+💻 TECH STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,java,kotlin,mysql,html,css,javascript,git,github,vscode" />
+</p>---
+
+⚙️ OPERATIONAL CAPACITY
+
+Department| Capabilities
+🤖 Automation| Scrapers, Bots, Task Schedulers
+🖥️ Software Development| Python Desktop Tools
+🌐 Backend Engineering| Flask APIs & Admin Panels
+📊 Data Processing| JSON, XML, Databases
+🔐 Security Research| Automation & System Analysis
+
+---
+
+📊 PERFORMANCE ANALYTICS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Private-X&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Private-X&theme=tokyonight&hide_border=true" width="49%" />
+</p>---
+
+📈 GITHUB SUMMARY
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Private-X&theme=dracula" width="100%" />
+</p><p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Private-X&theme=dracula" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Private-X&theme=dracula" width="49%" />
+</p>---
+
+🏆 DIGITAL DNA
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Private-X&theme=matrix&no-frame=true&no-bg=true"/>
+</p>---
+
+🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>---
+
+📡 ESTABLISH CONNECTION
+
+<p align="center"><a href="https://discord.gg/8k9R7Bv4">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a><a href="https://www.facebook.com/WHO.IS.NOOR">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a><a href="https://www.instagram.com/_n_o_o_r_4_0_4_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="mailto:daniyaln.hossai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></p>---
+
+class PrivateX:
+
+    def __init__(self):
+        self.role = "Automation Architect"
+
+    def daily_routine(self):
+        while True:
+            self.build_software()
+            self.automate_tasks()
+            self.deploy_solutions()
+            self.learn_new_things()
+
+PrivateX().daily_routine()
+
+---
+
+<div align="center">⚡ CODE • CREATE • AUTOMATE • INNOVATE ⚡
+
+"Turning ideas into intelligent systems."
+
 </div>
-<p align="center">
-  <a href="https://www.facebook.com/daniyal.noor">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
-  </a>
-</p>
-
-
-# ⚡ DANIYAL404DEV ⚡
-
-- **DIGITAL CREATOR**
-- **AUTOMATION DEV**
-- **FUTURE ENGINEER**
-
- <p align="center">
-  <a href="https://www.facebook.com/daniyal.noor">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://www.facebook.com/daniyal.noor">
-  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/thank_you.jpg" width="100%">
-  </a>
-</p>
