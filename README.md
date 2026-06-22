@@ -13,7 +13,6 @@
   - API Integration
   - Intelligent Systems
 
-Status: Building The Future
 
 ---
 
