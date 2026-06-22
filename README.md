@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%">  
 
-🚀 ABOUT
+🚀 About
 
 I am a dedicated Python Developer and Automation Specialist operating under the handle Private-X.
 
@@ -31,13 +31,13 @@ Current Objectives
 - 🔥 Advanced Python Engineering
 
 <img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
-💻 TECH STACK
+💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,java,kotlin,mysql,html,css,javascript,git,github,vscode" />
 </p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%">  
 
-⚙️ OPERATIONAL CAPACITY
+⚙️ Operational Capacity
 
 Department| Capabilities
 🤖 Automation| Scrapers, Bots, Task Schedulers
@@ -48,19 +48,19 @@ Department| Capabilities
 
 <img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
 
-📊 PERFORMANCE ANALYTICS
+📊 Performance Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Private-X&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Private-X&theme=tokyonight&hide_border=true" width="49%" />
 </p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
 
-📈 GITHUB SUMMARY
+📈 Github Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Private-X&theme=tokyonight" width="100%" />
 </p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
 
-🧬 DIGITAL DNA
+🧬 Digital Dna
 
 class PrivateX:
 
@@ -82,7 +82,7 @@ PrivateX().daily_routine()
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%"> 
-📡 ESTABLISH CONNECTION
+📡 Social Media Connection
 
 <p align="center"><a href="https://discord.gg/8k9R7Bv4">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
