@@ -1,28 +1,121 @@
-# 💫 HI I'M NOOR
+<p align="center">
+  <a href="https://www.facebook.com/daniyal.noor">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
+  </a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;DANIYAL404DEV+CONNECTED;PYTHON+•+JAVA+•+KOTLIN;AUTOMATION+SPECIALIST;ACCESS+GRANTED+✓" />
+</p>
+<p align="center">
+  <a href="https://www.facebook.com/daniyal.noor">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
+  </a>
+</p>
+ 
+-
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal404dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal404dev&layout=compact&theme=tokyonight" />
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Daniyal404dev&theme=tokyonight" />
+</p>
+ 
+ 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+ 
 
-## 🌐 SOCIALS:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8k9R7Bv4) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/WHO.IS.NOOR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_n_o_o_r_4_0_4_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_n_o_o_r_4_0_4_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniyaln.hossai@gmail.com) 
+# 🛠️ TECH STACK
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,github,vscode" />
+</p>
+<p align="center">
+  <a href="https://www.facebook.com/daniyal.noor">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daniyal404dev&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Daniyal404dev&style=flat-square&color=red"/>
+</p>
+<p align="center">
+  <a href="https://www.facebook.com/daniyal.noor">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
+  </a>
+</p>
+ 
+# 👤 ABOUT
+- **Developer**: Md Daniyal Hossain Noor
 
-<!-- Snake Game Repo View -->
 
+# 🚀 CURRENT MISSION
+ - **Building smart automation tools**
+ - **Learning advanced Java & Kotlin**
+ - **Android app development**
+ - **API & backend systems**
+ - **Digital innovation**
+ 
+# 🔗 CONTACT ME
+-
+ 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/DaniyalNoor)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=121212&color=1877F2&logoWidth=20)](https://www.facebook.com/daniyal.noor)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121212&color=25D366&logoWidth=20)](https://wa.me/+8801XXXXXXXXX)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=121212&color=E4405F&logoWidth=20)](https://instagram.com/daniyal_noor)
+ 
+
+
+# 🧬 DIGITAL DNA
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Daniyal404dev&theme=matrix&no-frame=true&no-bg=true&margin-w=10"/></div>---
+
+# 
+- 
+-
+ 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; max-width: 850px;">
+    <tr style="border: none;">
+      <td colspan="2" align="center" style="border: none; padding: 4px;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniyal404dev&theme=dracula" alt="profile details" width="100%" style="max-width: 100%;" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 4px; width: 50%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniyal404dev&theme=dracula" alt="repos per language" width="100%" style="max-width: 100%;" />
+      </td>
+      <td align="center" style="border: none; padding: 4px; width: 50%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daniyal404dev&theme=dracula" alt="most commit language" width="100%" style="max-width: 100%;" />
+      </td>
+    </tr>
+  </table>
 </div>
+<p align="center">
+  <a href="https://www.facebook.com/daniyal.noor">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
+  </a>
+</p>
 
-# 💻 LANGUAGE:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GITHUB STATUS:
-![](https://github-readme-stats.vercel.app/api?username=Private-X&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Private-X&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Private-X&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GITHUB TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=Private-X&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# ⚡ DANIYAL404DEV ⚡
 
-### 🔝 TOP CONTRIBUTED REPO
-![](https://github-contributor-stats.vercel.app/api?username=Private-X&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **DIGITAL CREATOR**
+- **AUTOMATION DEV**
+- **FUTURE ENGINEER**
 
----
-[![](https://visitcount.itsvg.in/api?id=Private-X&icon=0&color=0)](https://visitcount.itsvg.in)
+ <p align="center">
+  <a href="https://www.facebook.com/daniyal.noor">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%">
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <a href="https://www.facebook.com/daniyal.noor">
+  <img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/thank_you.jpg" width="100%">
+  </a>
+</p>
