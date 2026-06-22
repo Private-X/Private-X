@@ -30,13 +30,13 @@ Current Objectives
 - 📊 Data Processing Systems
 - 🔥 Advanced Python Engineering
 
----
+<img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%"> 
 
 💻 TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,java,kotlin,mysql,html,css,javascript,git,github,vscode" />
-</p>---
+</p><img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%"> 
 
 ⚙️ OPERATIONAL CAPACITY
 
@@ -47,19 +47,19 @@ Department| Capabilities
 📊 Data Processing| JSON, XML & Database Systems
 🔐 Security Research| System Analysis & Automation
 
----
+<img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%"> 
 
 📊 PERFORMANCE ANALYTICS
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Private-X&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Private-X&theme=tokyonight&hide_border=true" width="49%" />
-</p>---
+</p><img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%"> 
 
 📈 GITHUB SUMMARY
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Private-X&theme=tokyonight" width="100%" />
-</p>---
+</p><img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%"> 
 
 🧬 DIGITAL DNA
 
@@ -78,12 +78,12 @@ class PrivateX:
 
 PrivateX().daily_routine()
 
----
+<img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%"> 
 
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>---
+</p><img src="https://raw.githubusercontent.com/Imran404cyber/maintenance/main/assests/Rainbow.gif" width="100%"> 
 
 📡 ESTABLISH CONNECTION
 
