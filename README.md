@@ -93,7 +93,7 @@ PrivateX().daily_routine()
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a><a href="mailto:daniyaln.hossai@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p>---
+</a></p><img src="https://raw.githubusercontent.com/Private-X/Private-X/refs/heads/main/Assests/Rainbow.gif" width="100%">
 
 <div align="center">⚡ CODE • CREATE • AUTOMATE • INNOVATE ⚡
 
